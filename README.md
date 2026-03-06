@@ -3,6 +3,8 @@ Budget Tracker
 A modern, responsive web application for tracking your income and expenses with intuitive visualizations.
 ![Budget Tracker Preview](https://github.com/manas-shukla-101/Budget_tracker/blob/a995e426c0b1b3b19365917b574e4fe730115c90/Screenshot_20250824-150954.png)
 
+---
+
 🌟 Features
 
 · Add Transactions: Easily add income and expense transactions with descriptions
@@ -12,41 +14,45 @@ A modern, responsive web application for tracking your income and expenses with 
 · Responsive Design: Works seamlessly on desktop, tablet, and mobile devices
 · Data Persistence: Your transactions are saved in your browser's local storage
 
-🚀 Getting Started
+---
 
-Prerequisites
+## 🚀 Getting Started
 
-· A modern web browser (Chrome, Firefox, Safari, Edge)
-· No installation required!
+### Prerequisites
 
-Usage
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- No installation required!
+
+### Usage
 
 1. Visit the live site: Budget Tracker
 2. Add transactions using the form:
-   · Enter a description
-   · Input the amount
-   · Select transaction type (Income/Expense)
-   · Choose a category
-   · Click "Add Transaction"
+   - Enter a description
+   - Input the amount
+   - Select transaction type (Income/Expense)
+   - Choose a category
+   - Click "Add Transaction"
 3. View your financial summary in the analytics section
 4. See all transactions in the history table
 
-📊 Categories
+### 📊 Categories
 
 The app supports the following transaction categories:
 
-· 🍔 Food
-· 🛒 Shopping
-· 🏠 Rent
-· 🚗 Transportation
-· 💊 Medical
-· 🎉 Entertainment
-· 💡 Utilities
-· 💰 Salary
-· 🎁 Gift
-· ❓ Other
+- 🍔 Food
+- 🛒 Shopping
+- 🏠 Rent
+- 🚗 Transportation
+- 💊 Medical
+- 🎉 Entertainment
+- 💡 Utilities
+- 💰 Salary
+- 🎁 Gift
+- ❓ Other
 
-🛠️ Built With
+---
+
+## 🛠️ Built With
 
 · HTML5 - Page structure
 · CSS3 - Styling and responsive design
@@ -54,7 +60,9 @@ The app supports the following transaction categories:
 · Chart.js - Data visualization
 · Local Storage API - Data persistence
 
-📱 Browser Support
+---
+
+## 📱 Browser Support
 
 Browser Supported
 Chrome ✅ Yes
@@ -62,7 +70,9 @@ Firefox ✅ Yes
 Safari ✅ Yes
 Edge ✅ Yes
 
-🔧 Development
+---
+
+##🔧 Development
 
 To run this project locally:
 
@@ -73,25 +83,26 @@ To run this project locally:
 2. Navigate to the project directory
 3. Open index.html in your browser
 
-📝 License
+---
+
+## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
-👨‍💻 Author
+---
+---
+**Made with ❤️ by Manas Shukla**
 
-Manas Shukla
+---
 
-· GitHub: @manas-shukla-101
-· Project Link: https://github.com/manas-shukla-101/Budget_tracker
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://manas-shukla-portfolio.framer.website) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_shukla_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklamanas8928@gmail.com) 
 
-🙏 Acknowledgments
-
-· Chart.js for the excellent charting library
-· Icons from various sources
+---
 · Inspiration from various budgeting apps
 
 ---
