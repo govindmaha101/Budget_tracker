@@ -95,7 +95,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check issu
 
 ---
 ---
-**Made with ❤️ by Manas Shukla**
+_**Made with ❤️ by Manas Shukla**_
 
 ---
 
